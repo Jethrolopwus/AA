@@ -1,0 +1,9 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts-upgradeable/=lib/foundry-era-contracts/lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts/=lib/foundry-era-contracts/lib/openzeppelin-contracts/contracts/
+account-abstraction/=lib/account-abstraction/contracts/
+forge-std/=lib/forge-std/src/
+foundry-devops/=lib/foundry-devops/
+foundry-era-contracts/=lib/foundry-era-contracts/
+murky/=lib/foundry-era-contracts/lib/murky/src/
+solpp/=lib/foundry-era-contracts/src/solpp/solpp-generated-contracts/
